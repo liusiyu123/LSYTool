@@ -1,0 +1,6 @@
+framework module LSYTool {
+  umbrella header "LSYTool-umbrella.h"
+
+  export *
+  module * { export * }
+}

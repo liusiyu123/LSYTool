@@ -1,0 +1,6 @@
+framework module Pods_LSYTool_Tests {
+  umbrella header "Pods-LSYTool_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

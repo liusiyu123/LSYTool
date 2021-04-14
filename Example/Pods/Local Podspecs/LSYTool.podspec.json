@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "summary": "A short description of LSYTool.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/liusiyu/LSYTool",
+  "homepage": "https://github.com/liusiyu123/LSYTool",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "liusiyu": "1641594428@qq.com"
   },
   "source": {
-    "git": "https://github.com/liusiyu/LSYTool.git",
+    "git": "https://github.com/liusiyu123/LSYTool.git",
     "tag": "0.1.0"
   },
   "platforms": {

@@ -11,6 +11,7 @@
 #endif
 
 #import "FirstViewController.h"
+#import "SecondViewController.h"
 
 FOUNDATION_EXPORT double LSYToolVersionNumber;
 FOUNDATION_EXPORT const unsigned char LSYToolVersionString[];

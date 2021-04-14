@@ -1,6 +1,6 @@
 {
   "name": "LSYTool",
-  "version": "0.1.0",
+  "version": "1.1.0",
   "summary": "A short description of LSYTool.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/liusiyu123/LSYTool",
@@ -12,8 +12,8 @@
     "liusiyu": "1641594428@qq.com"
   },
   "source": {
-    "git": "https://github.com/liusiyu123/LSYTool.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/liusiyu1234/LSYTool.git",
+    "tag": "1.1.0"
   },
   "platforms": {
     "ios": "9.0"

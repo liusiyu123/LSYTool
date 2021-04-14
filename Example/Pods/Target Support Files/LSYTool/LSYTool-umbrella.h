@@ -12,6 +12,7 @@
 
 #import "FirstViewController.h"
 #import "SecondViewController.h"
+#import "ThirdViewController.h"
 
 FOUNDATION_EXPORT double LSYToolVersionNumber;
 FOUNDATION_EXPORT const unsigned char LSYToolVersionString[];

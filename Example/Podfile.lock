@@ -1,5 +1,5 @@
 PODS:
-  - LSYTool (1.1.0)
+  - LSYTool (1.2.0)
 
 DEPENDENCIES:
   - LSYTool (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  LSYTool: 3d7ec01211db21ec44f8bf848472ab3ca7630fa3
+  LSYTool: 00ddd9956e1d20cba678cead2c208d8ce26ca338
 
 PODFILE CHECKSUM: 2b06daf0d614d78a178aa631817015cc63c36529
 

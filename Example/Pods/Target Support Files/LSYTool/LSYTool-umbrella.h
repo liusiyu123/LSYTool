@@ -11,6 +11,7 @@
 #endif
 
 #import "FirstViewController.h"
+#import "FourViewController.h"
 #import "SecondViewController.h"
 #import "ThirdViewController.h"
 

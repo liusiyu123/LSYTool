@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'LSYTool'
-  s.version          = '1.2.0'
+  s.version          = '1.3.0'
   s.summary          = 'A short description of LSYTool.'
 
 # This description is used to generate tags and improve search results.
@@ -32,9 +32,9 @@ TODO: Add long description of the pod here.
 
   s.source_files = 'LSYTool/Classes/**/*'
   
-  # s.resource_bundles = {
-  #   'LSYTool' => ['LSYTool/Assets/*.png']
-  # }
+   s.resource_bundles = {
+     'LSYTool' => ['LSYTool/Assets/*.png']
+   }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'

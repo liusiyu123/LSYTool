@@ -7,32 +7,42 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1501BA365D61C013FD23DEAE7CE8DCCE /* FourViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 14D347D99A5A9A13F775750841735081 /* FourViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		15947BABA190D5ADD2153D3AF829FAEF /* Pods-LSYTool_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 8DE963398372D0A13823BD64D5D7D889 /* Pods-LSYTool_Example-dummy.m */; };
-		34262A69EE7C7AB2DD63A7270C97583F /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6687287704D04767E7415780634F17E7 /* FirstViewController.m */; };
-		40F5D46294E65C9752FB1B549EE428F2 /* LSYTool-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 090B67FE2E68B463A820853334CCB552 /* LSYTool-dummy.m */; };
-		44FEC700B56F828BF261E37D139FC976 /* ThirdViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 557AD725994A844F7E591B07A110AAC1 /* ThirdViewController.m */; };
-		6C6AADA3060037934DB7C4ACAFFD7FA3 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
-		81581B73D8B999DF12C30AF076344D45 /* FirstViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = C47259DD568CA391378DC15E890B0266 /* FirstViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		94C95B3969A42061DB09BB537DD5A749 /* ThirdViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = E14F2CEB3AD421776748BB4FCF843803 /* ThirdViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		985151AB73722315ADA0292AC51DD10F /* LSYTool-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 71B92461A1A908AB52532C27206C3254 /* LSYTool-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		21379F40B281179A8CEA957E571A9D57 /* FirstViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = FC239030F921C02E591E97919163F97E /* FirstViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		224AA6B952EEF53D7B9D717FF7D1E6CB /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EF948606E99FF11D82DFBC0AF9C33EA7 /* FirstViewController.m */; };
+		2BFC8BB55ABE41846B11B666A650AB96 /* LSYTool-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 773F0FBE7B54B492B114E98D4B50CA92 /* LSYTool-dummy.m */; };
+		2CF6E0D14D3465E953E6FE98C0D57A96 /* ThirdViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 422ACEEEF81205B5419CEAD1D2557B99 /* ThirdViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		2DD9A7939BF9A2C1DEC74DC31C7DCB79 /* LSYTool.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 4EDA302ABBB70CCEDF8DC35EC3B86984 /* LSYTool.bundle */; };
+		354C9D81789B4EF164F5C26176E17717 /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 095ED46C4B0BBBCD0CFF97B42B495B12 /* SecondViewController.m */; };
+		543E3EE80AB48F124649C58964A63C06 /* FourViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A94B1B224349199A79B65451CC531A58 /* FourViewController.m */; };
+		664DE0374FB85B82630D6D5E5C907238 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
 		A38929E92FE1DA56183CEBF98B5FA383 /* Pods-LSYTool_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 5E50C6F2CAC655BC167FA2CB12F1F508 /* Pods-LSYTool_Tests-dummy.m */; };
 		A3A3FBC658F771C1E5ECB0DEA3FE5C0F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
-		B49AE877A0FE1FA04BD72580D5D3D667 /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = ED5264325E6595BB64E12A74934C1FE4 /* SecondViewController.m */; };
+		ABC20B73185D6CDA7F65B51714588C9B /* SecondViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = C8965A260EFD7E04B748A648799FCA93 /* SecondViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		B239ACB7977B66B3D04035CB6CEF3F76 /* ThirdViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4DA97CE50BF963A1BAA2F4DE683DF9E9 /* ThirdViewController.m */; };
 		C5B582D9763850066CD409E14591AE6C /* Pods-LSYTool_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = B34AEBF1B6F14B03C8CC1009A978BBAA /* Pods-LSYTool_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		C8E8AF48FFE6D444A065CD2E44ED06FC /* SecondViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 03B9C21A9254878B3E79B34B79D8518F /* SecondViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		DC614ECE876B8581CE7C29350E40B5FC /* Pods-LSYTool_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 982A50AC9B5F340219CA1D31FDD5B4C6 /* Pods-LSYTool_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		F7D6F80605ABBFF27ADF636914BA1CB7 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
+		FE66775B997A9A8D134087F48E3C3C88 /* LSYTool-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 4741663ABCEFA845068B2A1B83EB52F3 /* LSYTool-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		8BA1B7513782EF68EF3D5936AB87D6E0 /* PBXContainerItemProxy */ = {
+		11698A15601A737D06AF99A13B865D41 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 47E6C1A811BFBBD25E359458A8A62F10;
+			remoteInfo = "LSYTool-LSYTool";
+		};
+		1391FB98DC1E324514B96643F0391DC8 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 00A4C1C51CC9D041C24AA1D71C38879F;
 			remoteInfo = "Pods-LSYTool_Example";
 		};
-		DF4AD797BE4185F801E1F0437588ACF5 /* PBXContainerItemProxy */ = {
+		96094F0F61B650674144BB9673A6B46C /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
@@ -42,47 +52,58 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		03B9C21A9254878B3E79B34B79D8518F /* SecondViewController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SecondViewController.h; path = LSYTool/Classes/SecondViewController.h; sourceTree = "<group>"; };
-		090B67FE2E68B463A820853334CCB552 /* LSYTool-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "LSYTool-dummy.m"; sourceTree = "<group>"; };
+		095ED46C4B0BBBCD0CFF97B42B495B12 /* SecondViewController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SecondViewController.m; path = LSYTool/Classes/SecondViewController.m; sourceTree = "<group>"; };
 		125039C44C29DD671EBB84743D5B0B6C /* Pods-LSYTool_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-LSYTool_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
+		14D347D99A5A9A13F775750841735081 /* FourViewController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FourViewController.h; path = LSYTool/Classes/FourViewController.h; sourceTree = "<group>"; };
 		1F3AE47BB9444DE0C49BBAABE7708744 /* Pods-LSYTool_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-LSYTool_Example.modulemap"; sourceTree = "<group>"; };
+		2582A75003ADD5FFDB71335114AC9FD5 /* LSYTool.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = LSYTool.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		305509796E3728A495EAFA71FB780AA5 /* Pods-LSYTool_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LSYTool_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		3AAB4D432E0B892189855F03998F7106 /* Pods-LSYTool_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-LSYTool_Example-Info.plist"; sourceTree = "<group>"; };
-		404CFF7AEC137F6DF6C447CAD73C88C4 /* LSYTool.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = LSYTool.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		422ACEEEF81205B5419CEAD1D2557B99 /* ThirdViewController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = ThirdViewController.h; path = LSYTool/Classes/ThirdViewController.h; sourceTree = "<group>"; };
 		433240B50F149007FC893CDF60DC65C8 /* Pods_LSYTool_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_LSYTool_Example.framework; path = "Pods-LSYTool_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		43E658034EAB74C53DE4C09533BAD459 /* LSYTool.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = LSYTool.framework; path = LSYTool.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		46400D810DB5B85E4B95F30C22851CF5 /* LSYTool-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "LSYTool-prefix.pch"; sourceTree = "<group>"; };
-		49CD6AB26F537B045744D8AB744D6834 /* LSYTool-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "LSYTool-Info.plist"; sourceTree = "<group>"; };
+		44BFEFA9F23E1FF4CA5717C305DBA648 /* LSYTool-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "LSYTool-prefix.pch"; sourceTree = "<group>"; };
+		4741663ABCEFA845068B2A1B83EB52F3 /* LSYTool-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "LSYTool-umbrella.h"; sourceTree = "<group>"; };
 		4A60772833DF08C83173ABB388BBE00A /* Pods-LSYTool_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-LSYTool_Example-frameworks.sh"; sourceTree = "<group>"; };
-		557AD725994A844F7E591B07A110AAC1 /* ThirdViewController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ThirdViewController.m; path = LSYTool/Classes/ThirdViewController.m; sourceTree = "<group>"; };
+		4DA97CE50BF963A1BAA2F4DE683DF9E9 /* ThirdViewController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ThirdViewController.m; path = LSYTool/Classes/ThirdViewController.m; sourceTree = "<group>"; };
+		4EDA302ABBB70CCEDF8DC35EC3B86984 /* LSYTool.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = LSYTool.bundle; path = "LSYTool-LSYTool.bundle"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5E50C6F2CAC655BC167FA2CB12F1F508 /* Pods-LSYTool_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-LSYTool_Tests-dummy.m"; sourceTree = "<group>"; };
-		6687287704D04767E7415780634F17E7 /* FirstViewController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FirstViewController.m; path = LSYTool/Classes/FirstViewController.m; sourceTree = "<group>"; };
 		69AADC30EFE8AB73330AF69127040E3B /* Pods-LSYTool_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-LSYTool_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		71B92461A1A908AB52532C27206C3254 /* LSYTool-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "LSYTool-umbrella.h"; sourceTree = "<group>"; };
 		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		74011CA4A775819BAA1DB8B90CCF0448 /* Pods-LSYTool_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LSYTool_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		78A6D5D182629D9BCE869CF46E91973C /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		773F0FBE7B54B492B114E98D4B50CA92 /* LSYTool-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "LSYTool-dummy.m"; sourceTree = "<group>"; };
+		7E01FDBD9465B398F2F26BC0005603A5 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		880FE7333FF2610784B7FF202A7A6CE1 /* Pods-LSYTool_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LSYTool_Example.release.xcconfig"; sourceTree = "<group>"; };
 		8DE963398372D0A13823BD64D5D7D889 /* Pods-LSYTool_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-LSYTool_Example-dummy.m"; sourceTree = "<group>"; };
 		982A50AC9B5F340219CA1D31FDD5B4C6 /* Pods-LSYTool_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-LSYTool_Example-umbrella.h"; sourceTree = "<group>"; };
+		9864F8FE2913F9459E9EA52AC9C250F4 /* ResourceBundle-LSYTool-LSYTool-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-LSYTool-LSYTool-Info.plist"; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A15C47EE0A20B326CEA7B43949ED37DF /* Pods-LSYTool_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-LSYTool_Tests.modulemap"; sourceTree = "<group>"; };
+		A94B1B224349199A79B65451CC531A58 /* FourViewController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FourViewController.m; path = LSYTool/Classes/FourViewController.m; sourceTree = "<group>"; };
 		B34AEBF1B6F14B03C8CC1009A978BBAA /* Pods-LSYTool_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-LSYTool_Tests-umbrella.h"; sourceTree = "<group>"; };
-		B61D419B2978FD53A0132C6DBFF7263F /* LSYTool.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = LSYTool.modulemap; sourceTree = "<group>"; };
 		BE92B4877A8F03182D979C300692BEC5 /* Pods-LSYTool_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-LSYTool_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		C2A7EF1131D06A30B6575F21084F1CA4 /* LSYTool.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = LSYTool.release.xcconfig; sourceTree = "<group>"; };
-		C47259DD568CA391378DC15E890B0266 /* FirstViewController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FirstViewController.h; path = LSYTool/Classes/FirstViewController.h; sourceTree = "<group>"; };
+		C8965A260EFD7E04B748A648799FCA93 /* SecondViewController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SecondViewController.h; path = LSYTool/Classes/SecondViewController.h; sourceTree = "<group>"; };
 		C8D2D0F82E15F7BEB69C1599D262E705 /* Pods-LSYTool_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-LSYTool_Tests-Info.plist"; sourceTree = "<group>"; };
 		C8D9BDA4B84C8FD4A9DFBEF5D97EAA15 /* Pods-LSYTool_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-LSYTool_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		CADEB60D8AD535F1EB99FDEE7DF70369 /* Pods_LSYTool_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_LSYTool_Tests.framework; path = "Pods-LSYTool_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		CD5478E5CF2FC6E5C8D912A4FB2AA8F4 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
-		E14F2CEB3AD421776748BB4FCF843803 /* ThirdViewController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = ThirdViewController.h; path = LSYTool/Classes/ThirdViewController.h; sourceTree = "<group>"; };
+		CE6921494D34162AE735F9201C1AB354 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		D84A4BE5DE65B4772D738BE5C195F5BB /* LSYTool.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = LSYTool.release.xcconfig; sourceTree = "<group>"; };
+		D9DA5DAB48F30CA8CDE35B5139AC9B72 /* LSYTool.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = LSYTool.modulemap; sourceTree = "<group>"; };
 		EB25F10EDBCE0E560A54D609F53CBDB0 /* Pods-LSYTool_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LSYTool_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		ED5264325E6595BB64E12A74934C1FE4 /* SecondViewController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SecondViewController.m; path = LSYTool/Classes/SecondViewController.m; sourceTree = "<group>"; };
-		FB460C49D878F83FB9AFDE41640E560D /* LSYTool.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = LSYTool.debug.xcconfig; sourceTree = "<group>"; };
+		EF948606E99FF11D82DFBC0AF9C33EA7 /* FirstViewController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FirstViewController.m; path = LSYTool/Classes/FirstViewController.m; sourceTree = "<group>"; };
+		FAC91B648A8283B0D3E4CB7372E957ED /* LSYTool-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "LSYTool-Info.plist"; sourceTree = "<group>"; };
+		FC239030F921C02E591E97919163F97E /* FirstViewController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FirstViewController.h; path = LSYTool/Classes/FirstViewController.h; sourceTree = "<group>"; };
+		FEAD95D9B49EE9465803B0101A804424 /* LSYTool.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = LSYTool.debug.xcconfig; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
+		1864D11828B8F85422A228CF4346CA10 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		71FAE652DAE32891BFBBA9A3EE305754 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -99,39 +120,39 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		C210C38E2155FC981A5A2B74498400C6 /* Frameworks */ = {
+		F6126D22010DBA4EC397BC8C92EE5CA8 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6C6AADA3060037934DB7C4ACAFFD7FA3 /* Foundation.framework in Frameworks */,
+				664DE0374FB85B82630D6D5E5C907238 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		350819B539728BBE79F3512A20AE4001 /* Development Pods */ = {
+		23186AD4D68ADCD6DD03CDBDFD7C465F /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
-				40227858387703AFEC60F36F4A9B31E2 /* LSYTool */,
+				DC08160565C8C43EF063B52E46FC7111 /* LSYTool */,
 			);
 			name = "Development Pods";
 			sourceTree = "<group>";
 		};
-		40227858387703AFEC60F36F4A9B31E2 /* LSYTool */ = {
+		35765411A17E9002EB37D4C8CE405FD5 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				C47259DD568CA391378DC15E890B0266 /* FirstViewController.h */,
-				6687287704D04767E7415780634F17E7 /* FirstViewController.m */,
-				03B9C21A9254878B3E79B34B79D8518F /* SecondViewController.h */,
-				ED5264325E6595BB64E12A74934C1FE4 /* SecondViewController.m */,
-				E14F2CEB3AD421776748BB4FCF843803 /* ThirdViewController.h */,
-				557AD725994A844F7E591B07A110AAC1 /* ThirdViewController.m */,
-				7D9497A961689623A06E2559DB307E37 /* Pod */,
-				8C66C2003EE6D2BDAD636D1DC1C26089 /* Support Files */,
+				D9DA5DAB48F30CA8CDE35B5139AC9B72 /* LSYTool.modulemap */,
+				773F0FBE7B54B492B114E98D4B50CA92 /* LSYTool-dummy.m */,
+				FAC91B648A8283B0D3E4CB7372E957ED /* LSYTool-Info.plist */,
+				44BFEFA9F23E1FF4CA5717C305DBA648 /* LSYTool-prefix.pch */,
+				4741663ABCEFA845068B2A1B83EB52F3 /* LSYTool-umbrella.h */,
+				FEAD95D9B49EE9465803B0101A804424 /* LSYTool.debug.xcconfig */,
+				D84A4BE5DE65B4772D738BE5C195F5BB /* LSYTool.release.xcconfig */,
+				9864F8FE2913F9459E9EA52AC9C250F4 /* ResourceBundle-LSYTool-LSYTool-Info.plist */,
 			);
-			name = LSYTool;
-			path = ../..;
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/LSYTool";
 			sourceTree = "<group>";
 		};
 		578452D2E740E91742655AC8F1636D1F /* iOS */ = {
@@ -168,34 +189,10 @@
 			path = "Target Support Files/Pods-LSYTool_Example";
 			sourceTree = "<group>";
 		};
-		7D9497A961689623A06E2559DB307E37 /* Pod */ = {
+		B5E136158B4AB4867B4D6BEA1DD00B1A /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				78A6D5D182629D9BCE869CF46E91973C /* LICENSE */,
-				404CFF7AEC137F6DF6C447CAD73C88C4 /* LSYTool.podspec */,
-				CD5478E5CF2FC6E5C8D912A4FB2AA8F4 /* README.md */,
-			);
-			name = Pod;
-			sourceTree = "<group>";
-		};
-		8C66C2003EE6D2BDAD636D1DC1C26089 /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				B61D419B2978FD53A0132C6DBFF7263F /* LSYTool.modulemap */,
-				090B67FE2E68B463A820853334CCB552 /* LSYTool-dummy.m */,
-				49CD6AB26F537B045744D8AB744D6834 /* LSYTool-Info.plist */,
-				46400D810DB5B85E4B95F30C22851CF5 /* LSYTool-prefix.pch */,
-				71B92461A1A908AB52532C27206C3254 /* LSYTool-umbrella.h */,
-				FB460C49D878F83FB9AFDE41640E560D /* LSYTool.debug.xcconfig */,
-				C2A7EF1131D06A30B6575F21084F1CA4 /* LSYTool.release.xcconfig */,
-			);
-			name = "Support Files";
-			path = "Example/Pods/Target Support Files/LSYTool";
-			sourceTree = "<group>";
-		};
-		BA5E40200A302A8B23CD16654743A584 /* Products */ = {
-			isa = PBXGroup;
-			children = (
+				4EDA302ABBB70CCEDF8DC35EC3B86984 /* LSYTool.bundle */,
 				43E658034EAB74C53DE4C09533BAD459 /* LSYTool.framework */,
 				433240B50F149007FC893CDF60DC65C8 /* Pods_LSYTool_Example.framework */,
 				CADEB60D8AD535F1EB99FDEE7DF70369 /* Pods_LSYTool_Tests.framework */,
@@ -223,9 +220,9 @@
 			isa = PBXGroup;
 			children = (
 				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
-				350819B539728BBE79F3512A20AE4001 /* Development Pods */,
+				23186AD4D68ADCD6DD03CDBDFD7C465F /* Development Pods */,
 				D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */,
-				BA5E40200A302A8B23CD16654743A584 /* Products */,
+				B5E136158B4AB4867B4D6BEA1DD00B1A /* Products */,
 				6FC686CAE98F9ABF053E6D65AC098F82 /* Targets Support Files */,
 			);
 			sourceTree = "<group>";
@@ -236,6 +233,34 @@
 				578452D2E740E91742655AC8F1636D1F /* iOS */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		DC08160565C8C43EF063B52E46FC7111 /* LSYTool */ = {
+			isa = PBXGroup;
+			children = (
+				FC239030F921C02E591E97919163F97E /* FirstViewController.h */,
+				EF948606E99FF11D82DFBC0AF9C33EA7 /* FirstViewController.m */,
+				14D347D99A5A9A13F775750841735081 /* FourViewController.h */,
+				A94B1B224349199A79B65451CC531A58 /* FourViewController.m */,
+				C8965A260EFD7E04B748A648799FCA93 /* SecondViewController.h */,
+				095ED46C4B0BBBCD0CFF97B42B495B12 /* SecondViewController.m */,
+				422ACEEEF81205B5419CEAD1D2557B99 /* ThirdViewController.h */,
+				4DA97CE50BF963A1BAA2F4DE683DF9E9 /* ThirdViewController.m */,
+				E56314FCA173415703EC99D1FA0C2D86 /* Pod */,
+				35765411A17E9002EB37D4C8CE405FD5 /* Support Files */,
+			);
+			name = LSYTool;
+			path = ../..;
+			sourceTree = "<group>";
+		};
+		E56314FCA173415703EC99D1FA0C2D86 /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				CE6921494D34162AE735F9201C1AB354 /* LICENSE */,
+				2582A75003ADD5FFDB71335114AC9FD5 /* LSYTool.podspec */,
+				7E01FDBD9465B398F2F26BC0005603A5 /* README.md */,
+			);
+			name = Pod;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -249,14 +274,15 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		7A70D6E099B0F66F0D657AEBA98050D5 /* Headers */ = {
+		871738A8F36BDF1BBB8E68E03D791F18 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				81581B73D8B999DF12C30AF076344D45 /* FirstViewController.h in Headers */,
-				985151AB73722315ADA0292AC51DD10F /* LSYTool-umbrella.h in Headers */,
-				C8E8AF48FFE6D444A065CD2E44ED06FC /* SecondViewController.h in Headers */,
-				94C95B3969A42061DB09BB537DD5A749 /* ThirdViewController.h in Headers */,
+				21379F40B281179A8CEA957E571A9D57 /* FirstViewController.h in Headers */,
+				1501BA365D61C013FD23DEAE7CE8DCCE /* FourViewController.h in Headers */,
+				FE66775B997A9A8D134087F48E3C3C88 /* LSYTool-umbrella.h in Headers */,
+				ABC20B73185D6CDA7F65B51714588C9B /* SecondViewController.h in Headers */,
+				2CF6E0D14D3465E953E6FE98C0D57A96 /* ThirdViewController.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -283,12 +309,29 @@
 			buildRules = (
 			);
 			dependencies = (
-				9898F3218B509A74303EDA249479CE35 /* PBXTargetDependency */,
+				C284E9BC60D4DCDBC6F3DE577D05769E /* PBXTargetDependency */,
 			);
 			name = "Pods-LSYTool_Example";
 			productName = "Pods-LSYTool_Example";
 			productReference = 433240B50F149007FC893CDF60DC65C8 /* Pods_LSYTool_Example.framework */;
 			productType = "com.apple.product-type.framework";
+		};
+		47E6C1A811BFBBD25E359458A8A62F10 /* LSYTool-LSYTool */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D869095059DAE41A04525617E7CA168F /* Build configuration list for PBXNativeTarget "LSYTool-LSYTool" */;
+			buildPhases = (
+				0FF5E8D0E364C00F86AD6FC429E673DE /* Sources */,
+				1864D11828B8F85422A228CF4346CA10 /* Frameworks */,
+				8CC2E120AA5D443866F0116E5BA52777 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "LSYTool-LSYTool";
+			productName = "LSYTool-LSYTool";
+			productReference = 4EDA302ABBB70CCEDF8DC35EC3B86984 /* LSYTool.bundle */;
+			productType = "com.apple.product-type.bundle";
 		};
 		AAA50E5D21E2ECCDC0800B6B9D27EBBA /* Pods-LSYTool_Tests */ = {
 			isa = PBXNativeTarget;
@@ -302,7 +345,7 @@
 			buildRules = (
 			);
 			dependencies = (
-				69D512295A883BF7C09546973D7CD564 /* PBXTargetDependency */,
+				8E330650DBACC95AE58989C7E1613166 /* PBXTargetDependency */,
 			);
 			name = "Pods-LSYTool_Tests";
 			productName = "Pods-LSYTool_Tests";
@@ -311,16 +354,17 @@
 		};
 		ED508878476AE2C83CD9C4CD929485B3 /* LSYTool */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5A791ADE2290D1C0B209B11595FF219A /* Build configuration list for PBXNativeTarget "LSYTool" */;
+			buildConfigurationList = E8F0B0AAA308A8E292DDD6667512224D /* Build configuration list for PBXNativeTarget "LSYTool" */;
 			buildPhases = (
-				7A70D6E099B0F66F0D657AEBA98050D5 /* Headers */,
-				B0B18829FD228143496BDAC44CDA877D /* Sources */,
-				C210C38E2155FC981A5A2B74498400C6 /* Frameworks */,
-				7531AB2AF30AAD7AE71B455F65578AAA /* Resources */,
+				871738A8F36BDF1BBB8E68E03D791F18 /* Headers */,
+				0CA175CB327A9E0D9E35D8F2033A2DCB /* Sources */,
+				F6126D22010DBA4EC397BC8C92EE5CA8 /* Frameworks */,
+				F6F5235DD540D0B59C4CE0D8861B48C4 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
+				207EDB1C2A3E0364730CDF90134DB5AE /* PBXTargetDependency */,
 			);
 			name = LSYTool;
 			productName = LSYTool;
@@ -345,11 +389,12 @@
 				Base,
 			);
 			mainGroup = CF1408CF629C7361332E53B88F7BD30C;
-			productRefGroup = BA5E40200A302A8B23CD16654743A584 /* Products */;
+			productRefGroup = B5E136158B4AB4867B4D6BEA1DD00B1A /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
 				ED508878476AE2C83CD9C4CD929485B3 /* LSYTool */,
+				47E6C1A811BFBBD25E359458A8A62F10 /* LSYTool-LSYTool */,
 				00A4C1C51CC9D041C24AA1D71C38879F /* Pods-LSYTool_Example */,
 				AAA50E5D21E2ECCDC0800B6B9D27EBBA /* Pods-LSYTool_Tests */,
 			);
@@ -357,7 +402,7 @@
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		7531AB2AF30AAD7AE71B455F65578AAA /* Resources */ = {
+		8CC2E120AA5D443866F0116E5BA52777 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -378,25 +423,41 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		F6F5235DD540D0B59C4CE0D8861B48C4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2DD9A7939BF9A2C1DEC74DC31C7DCB79 /* LSYTool.bundle in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
+		0CA175CB327A9E0D9E35D8F2033A2DCB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				224AA6B952EEF53D7B9D717FF7D1E6CB /* FirstViewController.m in Sources */,
+				543E3EE80AB48F124649C58964A63C06 /* FourViewController.m in Sources */,
+				2BFC8BB55ABE41846B11B666A650AB96 /* LSYTool-dummy.m in Sources */,
+				354C9D81789B4EF164F5C26176E17717 /* SecondViewController.m in Sources */,
+				B239ACB7977B66B3D04035CB6CEF3F76 /* ThirdViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0FF5E8D0E364C00F86AD6FC429E673DE /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		1AA02F7CCA03ACB4C6D9C0D6959E7A50 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				15947BABA190D5ADD2153D3AF829FAEF /* Pods-LSYTool_Example-dummy.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		B0B18829FD228143496BDAC44CDA877D /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				34262A69EE7C7AB2DD63A7270C97583F /* FirstViewController.m in Sources */,
-				40F5D46294E65C9752FB1B549EE428F2 /* LSYTool-dummy.m in Sources */,
-				B49AE877A0FE1FA04BD72580D5D3D667 /* SecondViewController.m in Sources */,
-				44FEC700B56F828BF261E37D139FC976 /* ThirdViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -411,17 +472,23 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		69D512295A883BF7C09546973D7CD564 /* PBXTargetDependency */ = {
+		207EDB1C2A3E0364730CDF90134DB5AE /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = "LSYTool-LSYTool";
+			target = 47E6C1A811BFBBD25E359458A8A62F10 /* LSYTool-LSYTool */;
+			targetProxy = 11698A15601A737D06AF99A13B865D41 /* PBXContainerItemProxy */;
+		};
+		8E330650DBACC95AE58989C7E1613166 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "Pods-LSYTool_Example";
 			target = 00A4C1C51CC9D041C24AA1D71C38879F /* Pods-LSYTool_Example */;
-			targetProxy = 8BA1B7513782EF68EF3D5936AB87D6E0 /* PBXContainerItemProxy */;
+			targetProxy = 1391FB98DC1E324514B96643F0391DC8 /* PBXContainerItemProxy */;
 		};
-		9898F3218B509A74303EDA249479CE35 /* PBXTargetDependency */ = {
+		C284E9BC60D4DCDBC6F3DE577D05769E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = LSYTool;
 			target = ED508878476AE2C83CD9C4CD929485B3 /* LSYTool */;
-			targetProxy = DF4AD797BE4185F801E1F0437588ACF5 /* PBXContainerItemProxy */;
+			targetProxy = 96094F0F61B650674144BB9673A6B46C /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -557,66 +624,21 @@
 			};
 			name = Debug;
 		};
-		4DFE85B28FC55F84F371F73E932E378A /* Release */ = {
+		9821629BE8A37C210B45C6072117C1F8 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = C2A7EF1131D06A30B6575F21084F1CA4 /* LSYTool.release.xcconfig */;
+			baseConfigurationReference = D84A4BE5DE65B4772D738BE5C195F5BB /* LSYTool.release.xcconfig */;
 			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/LSYTool/LSYTool-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/LSYTool/LSYTool-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/LSYTool";
+				IBSC_MODULE = LSYTool;
+				INFOPLIST_FILE = "Target Support Files/LSYTool/ResourceBundle-LSYTool-LSYTool-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/LSYTool/LSYTool.modulemap";
-				PRODUCT_MODULE_NAME = LSYTool;
 				PRODUCT_NAME = LSYTool;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
+				WRAPPER_EXTENSION = bundle;
 			};
 			name = Release;
-		};
-		5989CC4DD46961C16E0C56F37B0F46B5 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = FB460C49D878F83FB9AFDE41640E560D /* LSYTool.debug.xcconfig */;
-			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/LSYTool/LSYTool-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/LSYTool/LSYTool-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/LSYTool/LSYTool.modulemap";
-				PRODUCT_MODULE_NAME = LSYTool;
-				PRODUCT_NAME = LSYTool;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
 		};
 		C98CEFA4EEB608DFEAF9F8A41ECC3694 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -745,6 +767,83 @@
 			};
 			name = Release;
 		};
+		D363309BB2A68D8ED27F458B9349D323 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = FEAD95D9B49EE9465803B0101A804424 /* LSYTool.debug.xcconfig */;
+			buildSettings = {
+				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/LSYTool";
+				IBSC_MODULE = LSYTool;
+				INFOPLIST_FILE = "Target Support Files/LSYTool/ResourceBundle-LSYTool-LSYTool-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				PRODUCT_NAME = LSYTool;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				WRAPPER_EXTENSION = bundle;
+			};
+			name = Debug;
+		};
+		F1DD9B44377A725BE3A26D03EF506A32 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = FEAD95D9B49EE9465803B0101A804424 /* LSYTool.debug.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/LSYTool/LSYTool-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/LSYTool/LSYTool-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/LSYTool/LSYTool.modulemap";
+				PRODUCT_MODULE_NAME = LSYTool;
+				PRODUCT_NAME = LSYTool;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		F66831B943A2C61AC8CE81E77A742C56 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = D84A4BE5DE65B4772D738BE5C195F5BB /* LSYTool.release.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/LSYTool/LSYTool-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/LSYTool/LSYTool-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/LSYTool/LSYTool.modulemap";
+				PRODUCT_MODULE_NAME = LSYTool;
+				PRODUCT_NAME = LSYTool;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -757,20 +856,29 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5A791ADE2290D1C0B209B11595FF219A /* Build configuration list for PBXNativeTarget "LSYTool" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				5989CC4DD46961C16E0C56F37B0F46B5 /* Debug */,
-				4DFE85B28FC55F84F371F73E932E378A /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
 		CAFD25D5CB55EAFD7ADD8CDCB9317A17 /* Build configuration list for PBXNativeTarget "Pods-LSYTool_Tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C98CEFA4EEB608DFEAF9F8A41ECC3694 /* Debug */,
 				1E41614CF470267D284989C4FD9140DA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D869095059DAE41A04525617E7CA168F /* Build configuration list for PBXNativeTarget "LSYTool-LSYTool" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D363309BB2A68D8ED27F458B9349D323 /* Debug */,
+				9821629BE8A37C210B45C6072117C1F8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E8F0B0AAA308A8E292DDD6667512224D /* Build configuration list for PBXNativeTarget "LSYTool" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F1DD9B44377A725BE3A26D03EF506A32 /* Debug */,
+				F66831B943A2C61AC8CE81E77A742C56 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

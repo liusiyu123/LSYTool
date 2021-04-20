@@ -61,12 +61,12 @@
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		951A74A8957526D61DB51BFC /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		951A74A8957526D61DB51BFC /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		990EBE1C8AEDBAF963066919 /* Pods-LSYTool_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LSYTool_Tests.debug.xcconfig"; path = "Target Support Files/Pods-LSYTool_Tests/Pods-LSYTool_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		BD9DE1139661EE3EC7B4607E /* LSYTool.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = LSYTool.podspec; path = ../LSYTool.podspec; sourceTree = "<group>"; };
+		BD9DE1139661EE3EC7B4607E /* LSYTool.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LSYTool.podspec; path = ../LSYTool.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		D2041A8EE0EEAC762D396D23 /* Pods-LSYTool_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LSYTool_Example.debug.xcconfig"; path = "Target Support Files/Pods-LSYTool_Example/Pods-LSYTool_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		D9D0FB7129B0C882B0120DA5 /* Pods_LSYTool_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LSYTool_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		E7777BD34E5630BCD804CC60 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		E7777BD34E5630BCD804CC60 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -193,7 +193,6 @@
 				990EBE1C8AEDBAF963066919 /* Pods-LSYTool_Tests.debug.xcconfig */,
 				5830FFC9E8EAD6B0A5BE6A00 /* Pods-LSYTool_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -258,6 +257,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);

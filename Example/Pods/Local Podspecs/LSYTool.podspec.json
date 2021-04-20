@@ -18,5 +18,10 @@
   "platforms": {
     "ios": "9.0"
   },
-  "source_files": "LSYTool/Classes/**/*"
+  "source_files": "LSYTool/Classes/**/*",
+  "resource_bundles": {
+    "LSYTool": [
+      "LSYTool/Assets/*"
+    ]
+  }
 }

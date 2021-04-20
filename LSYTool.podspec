@@ -32,9 +32,9 @@ TODO: Add long description of the pod here.
 
   s.source_files = 'LSYTool/Classes/**/*'
   
-#   s.resource_bundles = {
-#     'LSYTool' => ['LSYTool/Assets/*.png']
-#   }
+   s.resource_bundles = {
+     'LSYTool' => ['LSYTool/Assets/*']
+   }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
